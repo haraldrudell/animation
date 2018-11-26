@@ -14,12 +14,14 @@
     "start:s": "react-scripts start",
     "build": "npm-run-all --serial onlinefonts build:b",
     "build:b": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "npm-run-all --serial localfonts test:t",
     "test:t": "react-scripts test",
     "localfonts": "node --experimental-modules --no-warnings scripts/linkfonts yes",
     "onlinefonts": "node --experimental-modules --no-warnings scripts/linkfonts no",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://haraldrudell.github.io/annimation",
   "eslintConfig": {
     "extends": "react-app"
   },
