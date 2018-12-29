@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1c567572eaa55eff0828",
-    "url": "/animation/static/css/main.f950b3e2.chunk.css"
+    "revision": "52935a738f0a35e143c0",
+    "url": "/animation/static/css/main.b80418cb.chunk.css"
   },
   {
-    "revision": "1c567572eaa55eff0828",
-    "url": "/animation/static/js/main.1c567572.chunk.js"
+    "revision": "52935a738f0a35e143c0",
+    "url": "/animation/static/js/main.52935a73.chunk.js"
   },
   {
     "revision": "ad9534033c2779fce7e7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/animation/static/js/runtime~main.0cfc31e7.js"
   },
   {
-    "revision": "282079fe5e4cfb8542aabd9bd4ffdef2",
+    "revision": "04e9bcb707ac86ba8f6d0d8ea39ed1c0",
     "url": "/animation/index.html"
   }
 ];
